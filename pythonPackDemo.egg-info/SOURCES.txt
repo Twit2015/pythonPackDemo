@@ -1,0 +1,8 @@
+setup.py
+myhellolib/__init__.py
+myhellolib/myhellolib.py
+pythonPackDemo.egg-info/PKG-INFO
+pythonPackDemo.egg-info/SOURCES.txt
+pythonPackDemo.egg-info/dependency_links.txt
+pythonPackDemo.egg-info/requires.txt
+pythonPackDemo.egg-info/top_level.txt
